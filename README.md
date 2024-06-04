@@ -27,9 +27,6 @@ git clone https://github.com/rodrigozamb/Desafio-PicPay-Node.git
 # Instale as dependências
 npm install
 
-# É necessário preencher todas as variáveis do arquivo '.env', o arquivo '.env.example' serve de exemplo
-# Inicie o projeto
-npm start:dev   
 
 ```
 
