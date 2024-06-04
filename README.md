@@ -49,7 +49,9 @@ npm start:dev
 
 Caso precise, entre em contato comigo :D
 
-[Email](rodrigozamboni2@gmail.com) 
+Email: rodrigozamboni2@gmail.com 
+
+ou pelas redes sociais: 
 
 [LinkedIn](https://www.linkedin.com/in/rodrigozamboni/)
 
